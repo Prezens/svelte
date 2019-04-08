@@ -45,6 +45,7 @@
 
 <div class="logos">
 	<a href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo"></a>
+	<a href="https://blackbless.com"><img src="organisations/blackbless.svg" alt="BlackBless logo"></a>
 	<a href="https://chess.com" style="background-color: rgb(49,46,43);"><img src="organisations/chess.svg" alt="Chess.com logo"></a>
 	<a href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo"></a>
 	<a href="https://db.nomics.world" style="background-color: rgb(15,39,47);"><img src="organisations/dbnomics.png" alt="DBNomics logo"></a>
